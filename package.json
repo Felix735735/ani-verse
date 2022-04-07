@@ -1,8 +1,0 @@
-{
-  "name": "company-website-template",
-  "author": "FelixAyeni",
-  "publish": false,
-  "dependencies": {
-    "lib": "latest"
-  }
-}
